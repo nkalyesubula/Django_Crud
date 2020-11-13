@@ -13,3 +13,4 @@ Lead Manager App is built on React and Python/Django. I helps users to create le
 - open a new window, then install frontend dependencies and start the frontend app:
   1. npm i
   2. npm run dev
+
